@@ -7,6 +7,7 @@ This application perform following task:
   - Access private member's value without using getter setter.
   - Overload main method.
   - main method execution order.
+  - Encryption and Decryption of string using AES algorithm using encryption key..
 
 For further Query or Found any Issue Please Contact:
 
