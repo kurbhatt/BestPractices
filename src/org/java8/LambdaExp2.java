@@ -48,7 +48,9 @@ public class LambdaExp2 {
 		list.forEach(n -> System.out.println(n));
 
 		//Iterate List and calculate sum of members
-		int sum = list.stream().reduce((x, y) -> x + y).get();
-		System.out.println("\nSum of List Members : " + sum);
+		int sumWay1 = list.stream().reduce((x, y) -> x + y).get();
+		int sumWay2 = list.stream().reduce(0, Integer::sum);
+
+		System.out.println("\nSum of List Members Way1: " + sumWay1 + " :: Way2: " + sumWay2);
 	}
 }
