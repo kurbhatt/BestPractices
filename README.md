@@ -12,7 +12,8 @@ This application perform following task:
   - Sort HashMap by it's value.
   - Lambda Expression(Java 8) Demonstration. **$**
   - Lambda Expression, demonstrate for each loop. **$**
-  - Demonstrate Function Interface. **$**
+  - Demonstrate Functional Interface. **$**
+  - Demonstrate Nashorn JavaScript Engine. **$**
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
