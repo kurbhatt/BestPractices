@@ -14,7 +14,7 @@ This application perform following task:
   - Lambda Expression, demonstrate for each loop. **$**
   - Demonstrate Function Interface. **$**
 
-**$ at the end of line means it requires Java 8 to run that feature**
+**Note: $ at the end of line means it requires Java 8 to run that feature.**
 
 For further Query or Found any Issue Please Contact:
 
