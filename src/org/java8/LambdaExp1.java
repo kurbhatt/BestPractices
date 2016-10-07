@@ -4,7 +4,7 @@ package org.java8;
  * Created by Keyur on 07-10-2016.
  * This Class Demonstrate the functionality of Lambda Expression (Java 8).
  */
-public class LambdaExp {
+public class LambdaExp1 {
 
 	public static void main(String[] args) {
 		//Run this method will print below message to console.
@@ -16,7 +16,7 @@ public class LambdaExp {
 		//Implement giveMeValue and override it with assigning Pie Value
 		Value pieValue = () -> 3.14;
 
-		LambdaExp exp = new LambdaExp();
+		LambdaExp1 exp = new LambdaExp1();
 
 		System.out.println("Plus Calculation : " + exp.calculate(10, 5, plus));
 		System.out.println("Minus Calculation : " + exp.calculate(10, 5, minus));

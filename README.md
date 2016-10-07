@@ -10,7 +10,11 @@ This application perform following task:
   - Encryption and Decryption of string using AES algorithm using encryption key.
   - Load multiple properties file in single property instance.
   - Sort HashMap by it's value.
-  - Lambda Expression(Java 8) Demonstration. **(To Run/Execute this feature Java 8 is necessary)**
+  - Lambda Expression(Java 8) Demonstration. **$**
+  - Lambda Expression, demonstrate for each loop. **$**
+  - Demonstrate Function Interface. **$**
+
+**$ at the end of line means it requires Java 8 to run that feature**
 
 For further Query or Found any Issue Please Contact:
 
