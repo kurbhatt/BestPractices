@@ -17,6 +17,7 @@ This application perform following task:
   - Demonstrate Sort Map By Key. **$**
   - Demonstrate Sort Map By Value in Reverse Order. **$**
   - Demonstrate Stream API. **$**
+  - Demonstrate Date Time API. **$**
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
