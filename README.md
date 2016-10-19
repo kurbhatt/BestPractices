@@ -16,6 +16,7 @@ This application perform following task:
   - Demonstrate Nashorn JavaScript Engine. **$**
   - Demonstrate Sort Map By Key. **$**
   - Demonstrate Sort Map By Value in Reverse Order. **$**
+  - Demonstrate Stream API. **$**
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
