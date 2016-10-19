@@ -15,6 +15,7 @@ This application perform following task:
   - Demonstrate Functional Interface. **$**
   - Demonstrate Nashorn JavaScript Engine. **$**
   - Demonstrate Sort Map By Key. **$**
+  - Demonstrate Sort Map By Value in Reverse Order. **$**
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
