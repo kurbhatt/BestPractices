@@ -14,6 +14,7 @@ This application perform following task:
   - Lambda Expression, demonstrate for each loop. **$**
   - Demonstrate Functional Interface. **$**
   - Demonstrate Nashorn JavaScript Engine. **$**
+  - Demonstrate Sort Map By Key. **$**
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
