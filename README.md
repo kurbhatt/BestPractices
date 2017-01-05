@@ -20,6 +20,7 @@ This application perform following task:
   - Demonstrate Date Time API. **$**
   - Demonstrate Stream API to convert primitive array to List element. **$**
   - Demonstrate to Convert ArrayList to Array.
+  - Demonstrate to Convert Comma Separated Value to List element. **$**
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
