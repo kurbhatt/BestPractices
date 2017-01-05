@@ -19,6 +19,7 @@ This application perform following task:
   - Demonstrate Stream API. **$**
   - Demonstrate Date Time API. **$**
   - Demonstrate Stream API to convert primitive array to List element. **$**
+  - Demonstrate to Convert ArrayList to Array.
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
