@@ -21,6 +21,7 @@ This application perform following task:
   - Demonstrate Stream API to convert primitive array to List element. **$**
   - Demonstrate to Convert ArrayList to Array.
   - Demonstrate to Convert Comma Separated Value to List element. **$**
+  - Demonstrate to load and parse CSV data from properties file and convert it to Integer List using different ways. **$**
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
