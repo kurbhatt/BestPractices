@@ -22,7 +22,7 @@ This application perform following task:
   - Demonstrate to Convert ArrayList to Array.
   - Demonstrate to Convert Comma Separated Value to List element. **$**
   - Demonstrate to load and parse CSV data from properties file and convert it to Integer List using different ways. **$**
-  - Demonstrate the use and importance of hashCode and equals method.
+  - Demonstrate the use and importance of hashCode and equals method. [file](https://github.com/kurbhatt/BestPractices/blob/master/src/org/collections/HashCodeEqualsInCollection.java)
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
