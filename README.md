@@ -13,13 +13,13 @@ This application perform following task:
   - Lambda Expression(Java 8) Demonstration. **$**
   - Lambda Expression, demonstrate for each loop. **$**
   - Demonstrate Functional Interface. **$**
-  - Demonstrate Nashorn JavaScript Engine. **$**
-  - Demonstrate Sort Map By Key. **$**
-  - Demonstrate Sort Map By Value in Reverse Order. **$**
-  - Demonstrate Stream API. **$**
-  - Demonstrate Date Time API. **$**
-  - Demonstrate Stream API to convert primitive array to List element. **$**
-  - Demonstrate to Convert ArrayList to Array.
+  - Demonstrate Nashorn JavaScript Engine. [file](src/org/java8/NasHorn.java) **$**
+  - Demonstrate Sort Map By Key. [file](src/org/java8/MapSortByKey.java) **$**
+  - Demonstrate Sort Map By Value in Reverse Order. [file](src/org/java8/MapSortByValue.java) **$**
+  - Demonstrate Stream API. [file](src/org/java8/StreamExp.java) **$**
+  - Demonstrate Date Time API. [file](src/org/java8/TimeAPI.java) **$**
+  - Demonstrate Stream API to convert primitive array to List element. [file](src/org/java8/ArrayToList.java) **$**
+  - Demonstrate to Convert ArrayList to Array. [file](src/org/collections/ArrayListToArray.java)
   - Demonstrate to Convert Comma Separated Value to List element. [file](src/org/collections/CommaSeparatedStringToList.java) **$**
   - Demonstrate to load and parse CSV data from properties file and convert it to Integer List using different ways. [file](src/org/property_loader/PropertyLoaderForCSV.java) **$**
   - Demonstrate the use and importance of hashCode and equals method. [file](src/org/collections/HashCodeEqualsInCollection.java)
