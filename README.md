@@ -20,8 +20,8 @@ This application perform following task:
   - Demonstrate Date Time API. **$**
   - Demonstrate Stream API to convert primitive array to List element. **$**
   - Demonstrate to Convert ArrayList to Array.
-  - Demonstrate to Convert Comma Separated Value to List element. **$**
-  - Demonstrate to load and parse CSV data from properties file and convert it to Integer List using different ways. **$**
+  - Demonstrate to Convert Comma Separated Value to List element. [file](src/org/collections/CommaSeparatedStringToList.java) **$**
+  - Demonstrate to load and parse CSV data from properties file and convert it to Integer List using different ways. [file](src/org/property_loader/PropertyLoaderForCSV.java) **$**
   - Demonstrate the use and importance of hashCode and equals method. [file](src/org/collections/HashCodeEqualsInCollection.java)
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
