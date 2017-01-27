@@ -1,18 +1,18 @@
 # Java Best Practices
 
 This application perform following task:
-  - File creation and insert data inside file.
-  - Convert Date to XMLGregorianCalendar.
-  - List declared methods and members of class using reflection.
-  - Access private member's value without using getter setter.
-  - Overload main method.
-  - main method execution order.
-  - Encryption and Decryption of string using AES algorithm using encryption key.
-  - Load multiple properties file in single property instance.
-  - Sort HashMap by it's value.
-  - Lambda Expression(Java 8) Demonstration. **$**
-  - Lambda Expression, demonstrate for each loop. **$**
-  - Demonstrate Functional Interface. **$**
+  - File creation and insert data inside file.  [file](src/org/practice/FilePractice.java)
+  - Convert Date to XMLGregorianCalendar. [file](src/org/practice/Practice.java)
+  - List declared methods and members of class using reflection. [file](src/org/reflection/ListFieldsAndMethods.java)
+  - Access private member's value without using getter setter. [file](src/org/reflection/PrivateMemberValueWithoutGetterSetter.java)
+  - Overload main method. [file](src/org/tricky/OverLoadMainMethod.java)
+  - main method execution order. [file](src/org/tricky/PSVMExecutionOrder.java)
+  - Encryption and Decryption of string using AES algorithm using encryption key. [file](src/org/algorithms/AES.java)
+  - Load multiple properties file in single property instance. [file](src/org/property_loader/MultiplePropertyLoader.java)
+  - Sort HashMap by it's value. [file](src/org/collections/SortMapByValue.java)
+  - Lambda Expression(Java 8) Demonstration. [file](src/org/java8/LambdaExp1.java) **$**
+  - Lambda Expression, demonstrate for each loop. [file](src/org/java8/LambdaExp2.java) **$**
+  - Demonstrate Functional Interface. [file1](src/org/java8/FunctionInterfaceDemonstration.java), [file2](src/org/java8/LambdaExp2.java) **$**
   - Demonstrate Nashorn JavaScript Engine. [file](src/org/java8/NasHorn.java) **$**
   - Demonstrate Sort Map By Key. [file](src/org/java8/MapSortByKey.java) **$**
   - Demonstrate Sort Map By Value in Reverse Order. [file](src/org/java8/MapSortByValue.java) **$**
