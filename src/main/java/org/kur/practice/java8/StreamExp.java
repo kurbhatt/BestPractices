@@ -1,0 +1,34 @@
+package org.kur.practice.java8;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Stream;
+
+/**
+ * Created by Keyur on 19-10-2016.
+ * This Class Demonstrates Stream API Operations on Collection Element.
+ */
+public class StreamExp {
+
+	public static void main(String[] args) {
+
+		List<Integer> myList = new ArrayList<>();
+		for (int i = 0; i < 100; i++) {
+			myList.add(i);
+		}
+
+		//sequential stream
+		Stream<Integer> sequentialStream = myList.stream();
+
+		//parallel stream
+		Stream<Integer> parallelStream = myList.parallelStream();
+
+		//using lambda with Stream API, filter example
+		Stream<Integer> highNums = parallelStream.filter(p -> p > 90);
+		//using lambda in forEach
+		highNums.forEach(p -> System.out.println("High Num. Parallel: " + p));
+
+		Stream<Integer> highNumsSeq = sequentialStream.filter(p -> p > 90);
+		highNumsSeq.forEach(p -> System.out.println("High Num. Sequential: " + p));
+	}
+}
