@@ -7,7 +7,7 @@ This application perform following task:
   - Access private member's value without using getter setter. [file](src/main/java/org/kur/practice/reflection/PrivateMemberValueWithoutGetterSetter.java)
   - Overload main method. [file](src/main/java/org/kur/practice/tricky/OverLoadMainMethod.java)
   - main method execution order. [file](src/main/java/org/kur/practice/tricky/PSVMExecutionOrder.java)
-  - Encryption and Decryption of string using AES algorithm using encryption key. [file](src/main/java/org/kur/practice/kur/practice/algorithms/AES.java)
+  - Encryption and Decryption of string using AES algorithm using encryption key. [file](src/main/java/org/kur/practice/algorithms/AES.java)
   - Load multiple properties file in single property instance. [file](src/main/java/org/kur/practice/property_loader/MultiplePropertyLoader.java)
   - Sort HashMap by it's value. [file](src/main/java/org/kur/practice/collections/SortMapByValue.java)
   - Lambda Expression(Java 8) Demonstration. [file](src/main/java/org/kur/practice/java8/LambdaExp1.java) **$**
