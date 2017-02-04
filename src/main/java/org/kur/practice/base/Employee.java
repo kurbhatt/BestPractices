@@ -12,6 +12,16 @@ public class Employee {
     private Double Salary;
     private String Designation;
 
+    public Employee() {
+    }
+
+    public Employee(Integer id, String name, Double salary, String designation) {
+        Id = id;
+        Name = name;
+        Salary = salary;
+        Designation = designation;
+    }
+
     public Integer getId() {
         return Id;
     }
@@ -56,5 +66,15 @@ public class Employee {
     @Override
     public int hashCode() {
         return Objects.hash(Id, Name);
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "Id=" + Id +
+                ", Name='" + Name + '\'' +
+                ", Salary=" + Salary +
+                ", Designation='" + Designation + '\'' +
+                '}';
     }
 }
