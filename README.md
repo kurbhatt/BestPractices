@@ -26,6 +26,7 @@ This application perform following task:
   - Use google's guava library to load properties file. [file](src/main/java/org/kur/practice/guava/LoadProperties.java)
   - Use google's guava library to demonstrate cache mechanism. [file](src/main/java/org/kur/practice/guava/CacheUtility.java)
   - Demonstrate Stream to Convert 1 Collection Impl. to another. [file](src/main/java/org/kur/practice/java8/StreamConvertCollectionType.java) **$**
+  - Merge 2 objects of same type. [file](src/main/java/org/kur/practice/reflection/Merge2ObjectOfSameType.java)
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
