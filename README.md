@@ -25,6 +25,7 @@ This application perform following task:
   - Demonstrate the use and importance of hashCode and equals method. [file](src/main/java/org/kur/practice/collections/HashCodeEqualsInCollection.java)
   - Use google's guava library to load properties file. [file](src/main/java/org/kur/practice/guava/LoadProperties.java)
   - Use google's guava library to demonstrate cache mechanism. [file](src/main/java/org/kur/practice/guava/CacheUtility.java)
+  - Use google's guava library to demonstrate cache mechanism with different mechanism. [file](src/main/java/org/kur/practice/guava/GuavaCache.java)
   - Demonstrate Stream to Convert 1 Collection Impl. to another. [file](src/main/java/org/kur/practice/java8/StreamConvertCollectionType.java) **$**
   - Merge 2 objects of same type. [file](src/main/java/org/kur/practice/reflection/Merge2ObjectOfSameType.java)
 
