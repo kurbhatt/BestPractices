@@ -8,6 +8,7 @@ This application perform following task:
   - Overload main method. [file](src/main/java/org/kur/practice/tricky/OverLoadMainMethod.java)
   - main method execution order. [file](src/main/java/org/kur/practice/tricky/PSVMExecutionOrder.java)
   - Encryption and Decryption of string using AES algorithm using encryption key. [file](src/main/java/org/kur/practice/algorithms/AES.java)
+  - Encryption and Verification of string and hashed string using BCrypt algorithm with salt. [file](src/main/java/org/kur/practice/algorithms/BCryptAlgorithm.java)
   - Load multiple properties file in single property instance. [file](src/main/java/org/kur/practice/property_loader/MultiplePropertyLoader.java)
   - Sort HashMap by it's value. [file](src/main/java/org/kur/practice/collections/SortMapByValue.java)
   - Lambda Expression(Java 8) Demonstration. [file](src/main/java/org/kur/practice/java8/LambdaExp1.java) **$**
