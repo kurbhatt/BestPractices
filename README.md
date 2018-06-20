@@ -30,6 +30,7 @@ This application perform following task:
   - Demonstrate Stream to Convert 1 Collection Impl. to another. [file](src/main/java/org/kur/practice/java8/StreamConvertCollectionType.java) **$**
   - Merge 2 objects of same type. [file](src/main/java/org/kur/practice/reflection/Merge2ObjectOfSameType.java)
   - Autofill class instance object with dynamic data Using PodamFactory. [file](src/test/java/PodamTest.java)
+  - Demonstrate to split list element into defined size of sub lists. [file](src/main/java/org/kur/practice/collections/ListSplit.java)
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
