@@ -31,6 +31,9 @@ This application perform following task:
   - Merge 2 objects of same type. [file](src/main/java/org/kur/practice/reflection/Merge2ObjectOfSameType.java)
   - Autofill class instance object with dynamic data Using PodamFactory. [file](src/test/java/PodamTest.java)
   - Demonstrate to split list element into defined size of sub lists. [file](src/main/java/org/kur/practice/collections/ListSplit.java)
+  - Demonstrate the functionality of Java 8 parallel stream in thread safe environment. [file](src/main/java/org/kur/practice/java8/ParallelStream.java) **$**
+  - Demonstrate the functionality of inner loop mechanism while using continue. [file](src/main/java/org/kur/practice/tricky/Loop.java)
+  - This Class Demonstrate the functionality of CSV file writing. [file](src/main/java/org/kur/practice/file/CsvFileWriter.java)
 
 **Note: $ at the end of line means it requires Java 8 to run that feature.**
 
